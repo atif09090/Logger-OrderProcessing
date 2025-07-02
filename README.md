@@ -16,7 +16,8 @@ This is a .NET 8 Web API project that demonstrates **good vs bad logging practic
 
 ## 🏗️ Project Structure
 
-OrderProcessing.Api/
+```plaintext
+Logger-OrderProcessing.Api/
 │
 ├── Controllers/
 │ ├── LegacyLoggerController.cs <-- Bad logging practices
